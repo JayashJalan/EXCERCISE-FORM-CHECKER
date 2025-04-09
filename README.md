@@ -17,9 +17,9 @@ Binary classification using XGBoost
 
 Model evaluation through:
 
-Accuracy
+Accuracy 
 
-Precision, Recall, F1 Score
+Precision, Recall, F1 Score 
 
 Confusion Matrix Heatmaps
 
@@ -36,30 +36,22 @@ objective = binary:logistic
 
 ✅ Results
 BICEP Model
-Accuracy: ~X.XXXX
+Accuracy: 0.8924
 
-Precision: ~X.XXXX
+Precision: 0.9077
 
-Recall: ~X.XXXX
+Recall: 0.8997
 
-F1 Score: ~X.XXXX
-
-Confusion Matrix:
-
-Predicted vs Actual for C (1) and L (0)
+F1 Score: 0.9037
 
 SQUAT Model
-Accuracy: ~X.XXXX
+Accuracy: 0.9965
 
-Precision: ~X.XXXX
+Precision: 0.9976
 
-Recall: ~X.XXXX
+Recall: 0.9953
 
-F1 Score: ~X.XXXX
-
-Confusion Matrix:
-
-Predicted vs Actual for up (1) and down (0)
+F1 Score: 0.9964
 
 📈 Visualizations
 Confusion matrices are plotted using Seaborn heatmaps.
